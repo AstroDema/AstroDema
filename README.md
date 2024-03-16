@@ -1,15 +1,14 @@
 ### Hi there 👋
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=${AstroDema})
 
-**AstroDema/AstroDema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on my Personal Website.
-- 🌱 I’m currently learning HTML-CSS, js and Python.
-- 🤔 I’m looking for help with anything:P
-- 💬 Ask me about myself
-- 📫 How to reach me: Indusse#2211 in Discord
+
+- 🔭 I’m currently living under a rock.
+- 🌱 I don't even know what i am doing at the moment. 
+- 🤔 Melchizedek, is who i really am. 
+- 💬 Always ready to have a talk!
+- 📫 How to reach me: Indusse in Discord or through my LinkedIn profile.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a human. xD
+- ⚡ Fun fact: You're now aware of my Identity. 
 
 **Stats**
 
