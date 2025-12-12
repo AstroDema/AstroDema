@@ -28,4 +28,5 @@
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
-
+![](https://raw.githubusercontent.com/AstroDema/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/AstroDema/github-stats/master/generated/languages.svg#gh-dark-mode-only)
